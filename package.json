@@ -1,0 +1,20 @@
+{
+  "name": "washiki-js",
+  "version": "1.0.0",
+  "description": "JavaScript/TypeScript library to generate random points that uniformly distribute on hypersphere or hyperball",
+  "main": "index.js",
+  "scripts": {
+    "test": "testyts"
+  },
+
+  "author": "waman",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^15.12.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "testyts": "^1.4.0"
+  }
+}
